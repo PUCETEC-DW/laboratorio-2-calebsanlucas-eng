@@ -1,0 +1,9 @@
+{
+  "homepage": "https://calebsanlucas-eng.github.io/laboratorio-2-calebsanlucas-eng",
+  "scripts": {
+    "deploy": "gh-pages -d .github"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}
